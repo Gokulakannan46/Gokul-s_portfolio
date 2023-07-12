@@ -1,3 +1,3 @@
 # GOKUL's_portfolio
-# PROJECT:1 POWER BI DASHBOARD FOR NETFLIX
+# Project:1 PowerBI Dashboard for Netflix 
 
